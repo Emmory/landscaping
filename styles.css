@@ -2,11 +2,12 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Segoe UI', sans-serif;
-  background: linear-gradient(135deg, #f5e6d6, #e3d8ca); /* más claro */
+  background: linear-gradient(135deg, #fdf4ec, #f1e7dc); /* aún más claro */
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
 
 header {
   background: transparent;

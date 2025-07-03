@@ -8,7 +8,7 @@ body {
 }
 
 header {
-  background: linear-gradient(135deg, #2e7d32, #4caf50); /* degradado verde moderno */
+  background: linear-gradient(135deg, #a1887f, #d7ccc8);
   color: white;
   padding: 40px 20px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.25);

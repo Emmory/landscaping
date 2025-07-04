@@ -58,6 +58,7 @@ header img {
   text-align: left;
   max-width: 800px; /* para que no quede muy ancho */
   margin: 0 auto 20px; /* centrar la sección pero título alineado a la izquierda */
+   background: linear-gradient(135deg, #fefaf7, #f7f3ef);
 }
 
 .services ul {

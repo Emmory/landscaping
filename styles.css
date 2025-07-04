@@ -251,9 +251,13 @@ footer {
 }
 
 .logo {
-  max-width: 150px;
-  margin-bottom: 15px;
+  max-width: 100%;
+  width: 220px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
 }
+
 
 .lightbox {
   display: none;

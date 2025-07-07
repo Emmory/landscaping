@@ -328,4 +328,34 @@ footer {
 }
 
 
+.service-areas {
+  padding: 40px 20px;
+  background-color: #f8f8f8;
+  text-align: center;
+}
+
+.service-areas h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.area-list {
+  list-style: none;
+  padding: 0;
+  max-width: 600px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 10px;
+  text-align: left;
+}
+
+.area-list li {
+  background-color: #fff;
+  padding: 8px 12px;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+
 
